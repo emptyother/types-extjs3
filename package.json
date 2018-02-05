@@ -1,0 +1,15 @@
+{
+	"name": "types-extjs3",
+	"description": "TypeScript Definitions for the old ExtJS 3.4.0 library",
+	"version": "1.0.0",
+	"author": "Tom A. Vibeto <tom@onlyhuman.dk> (https://onlyhuman.dk)",
+	"main": "",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "https://www.github.com/emptyother/types-extjs3"
+	},
+	"license": "ISC",
+	"typeScriptVersion": "2.5",
+	"dependencies": {}
+}
